@@ -4331,10 +4331,6 @@ button.swiper-pagination-bullet {
     z-index: 16;
 }
 
-.chart.site .scroll-views {
-    bottom: 0;
-}
-
 .chart .top-forms {
     background: #f5f5f5;
     border-bottom: 1px solid #d9d9d9;
@@ -4502,7 +4498,6 @@ button.swiper-pagination-bullet {
 .chart .charting .chart-item .imgs.imgs2 {
     max-width: 250px;
 }
-
 .chart .charting .chart-item .imgs.wide {
     max-width: 100% !important;
     margin: 5px 20px 0 20px;
@@ -4947,6 +4942,10 @@ button.swiper-pagination-bullet {
 
 .mix-bubble2 .thumb{
     display:block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
     width:160px;
     font-size:0;
 }
@@ -4956,15 +4955,11 @@ button.swiper-pagination-bullet {
 }
 
 .mix-bubble2 .infos{
-    position:absolute;
-    top:0;
-    bottom:0;
-    left:160px;
+    margin: 0 0 0 160px;
     background:#fff;
 }
 .mix-bubble2 .txts{
     position:Relative;
-    height:200px;
     padding:15px 14px 0 14px;
 }
 .mix-bubble2 .txts strong{
@@ -4976,10 +4971,6 @@ button.swiper-pagination-bullet {
 }
 
 .mix-bubble2 .txts button{
-    position:absolute;
-    bottom:0;
-    left:0;
-    right:0;
     font-size:12px;
     color:#666666;
     width:100%;
@@ -5012,9 +5003,6 @@ button.swiper-pagination-bullet {
 
 .mix-bubble2 .bts{
     background:#fff;
-    position:absolute;
-    bottom:0;
-    right:0;
     width:100%;
 }
 
