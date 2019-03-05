@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04702196-6e77-472a-bdaf-a45f93d7c96c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resource/imgs/ico_arrow2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/imgs/img_kurly-chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/imgs/img_sb-thumb1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/imgs/img_sb-thumb2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/imgs/img_sb-thumb3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/imgs/img_sb-thumb4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/imgs/img_sb-thumb5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/imgs/img_starbucks-chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resource/css/rcs.ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/resource/css/rcs.ui.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resource/css/rcs.ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/resource/css/rcs.ui.min.css" afterDir="false" />
     </list>
@@ -29,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resource/css/rcs.ui.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1655">
-              <caret line="5016" column="1" selection-start-line="5016" selection-start-column="1" selection-end-line="5016" selection-end-column="1" />
+            <state relative-caret-position="254">
+              <caret line="4925" column="33" selection-start-line="4925" selection-start-column="33" selection-end-line="4925" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -169,12 +159,12 @@
       <updated>1551764420577</updated>
       <workItem from="1551764422002" duration="372000" />
       <workItem from="1551765211927" duration="433000" />
-      <workItem from="1551765784651" duration="3529000" />
+      <workItem from="1551765784651" duration="4086000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4334000" />
+    <option name="totallyTimeSpent" value="4891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1192" y="-8" width="1216" height="1906" extended-state="6" />
@@ -234,8 +224,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/rcs.ui.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1655">
-          <caret line="5016" column="1" selection-start-line="5016" selection-start-column="1" selection-end-line="5016" selection-end-column="1" />
+        <state relative-caret-position="254">
+          <caret line="4925" column="33" selection-start-line="4925" selection-start-column="33" selection-end-line="4925" selection-end-column="33" />
         </state>
       </provider>
     </entry>
