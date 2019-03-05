@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04702196-6e77-472a-bdaf-a45f93d7c96c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resource/imgs/img_kbcard-thumb1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/imgs/img_kbcard-thumb2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/imgs/img_kbcard-thumb3.png" afterDir="false" />
+    <list default="true" id="04702196-6e77-472a-bdaf-a45f93d7c96c" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resource/css/rcs.ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/resource/css/rcs.ui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/css/rcs.ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/resource/css/rcs.ui.min.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resource/css/rcs.ui.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2326">
-              <caret line="6472" lean-forward="true" selection-start-line="6472" selection-end-line="6472" />
+              <caret line="6474" lean-forward="true" selection-start-line="6474" selection-end-line="6474" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1604">
-              <caret line="355" column="33" selection-start-line="355" selection-start-column="33" selection-end-line="355" selection-end-column="33" />
+            <state relative-caret-position="198">
+              <caret line="358" column="33" lean-forward="true" selection-start-line="358" selection-start-column="33" selection-end-line="358" selection-end-column="33" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -95,8 +90,8 @@
       <list>
         <option value="$PROJECT_DIR$/resource/js/rcs.ui.js" />
         <option value="$PROJECT_DIR$/index_bak.html" />
-        <option value="$PROJECT_DIR$/resource/css/rcs.ui.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/resource/css/rcs.ui.css" />
       </list>
     </option>
   </component>
@@ -150,6 +145,12 @@
               <item name="T-Message_B" type="b2602c69:ProjectViewProjectNode" />
               <item name="T-Message_B" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="T-Message_B" type="b2602c69:ProjectViewProjectNode" />
+              <item name="T-Message_B" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -197,7 +198,7 @@
       <workItem from="1551764422002" duration="372000" />
       <workItem from="1551765211927" duration="433000" />
       <workItem from="1551765784651" duration="8017000" />
-      <workItem from="1551780751680" duration="1066000" />
+      <workItem from="1551780751680" duration="2302000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1551781073992</created>
@@ -213,11 +214,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551781298762</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1551781854738</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551781854738</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1551782094863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551782094863</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9888000" />
+    <option name="totallyTimeSpent" value="11124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-679" width="1456" height="2546" extended-state="6" />
@@ -283,17 +298,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/css/rcs.ui.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2326">
-          <caret line="6472" lean-forward="true" selection-start-line="6472" selection-end-line="6472" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1604">
-          <caret line="355" column="33" selection-start-line="355" selection-start-column="33" selection-end-line="355" selection-end-column="33" />
+        <state relative-caret-position="198">
+          <caret line="358" column="33" lean-forward="true" selection-start-line="358" selection-start-column="33" selection-end-line="358" selection-end-column="33" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -303,6 +311,13 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/rcs.ui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2326">
+          <caret line="6474" lean-forward="true" selection-start-line="6474" selection-end-line="6474" />
         </state>
       </provider>
     </entry>
