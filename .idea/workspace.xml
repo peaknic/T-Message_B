@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04702196-6e77-472a-bdaf-a45f93d7c96c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resource/imgs/ico_arrow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/imgs/img_kurly-chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/imgs/img_sb-thumb1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/imgs/img_sb-thumb2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/imgs/img_sb-thumb3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/imgs/img_sb-thumb4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/imgs/img_sb-thumb5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/imgs/img_starbucks-chart.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/js/rcs.ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/resource/js/rcs.ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/css/rcs.ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/resource/css/rcs.ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/css/rcs.ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/resource/css/rcs.ui.min.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,13 +27,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resource/js/rcs.ui.js">
+        <entry file="file://$PROJECT_DIR$/resource/css/rcs.ui.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="807">
-              <caret line="539" column="22" selection-start-line="539" selection-start-column="22" selection-end-line="539" selection-end-column="22" />
+            <state relative-caret-position="1655">
+              <caret line="5016" column="1" selection-start-line="5016" selection-start-column="1" selection-end-line="5016" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1133">
+              <caret line="497" column="26" selection-start-line="497" selection-start-column="26" selection-end-line="497" selection-end-column="26" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#1503#13412#0" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -35,6 +60,7 @@
     <findStrings>
       <find>.chart</find>
       <find>.site-cap</find>
+      <find>.site {</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -43,9 +69,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/resource/js/rcs.ui.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resource/css/rcs.ui.css" />
-        <option value="$PROJECT_DIR$/resource/js/rcs.ui.js" />
       </list>
     </option>
   </component>
@@ -59,7 +85,7 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1192" />
     <option name="y" value="-8" />
     <option name="width" value="1216" />
     <option name="height" value="1906" />
@@ -114,6 +140,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\koos\T-Message_B\resource\imgs" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -138,15 +169,15 @@
       <updated>1551764420577</updated>
       <workItem from="1551764422002" duration="372000" />
       <workItem from="1551765211927" duration="433000" />
-      <workItem from="1551765784651" duration="17000" />
+      <workItem from="1551765784651" duration="3529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="822000" />
+    <option name="totallyTimeSpent" value="4334000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1216" height="1906" extended-state="6" />
+    <frame x="1192" y="-8" width="1216" height="1906" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24957556" />
@@ -173,39 +204,38 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resource/css/rcs.ui.css">
+    <entry file="file://$PROJECT_DIR$/resource/js/rcs.ui.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="4876" selection-start-line="4876" selection-end-line="4914" selection-end-column="1" />
+        <state relative-caret-position="1830">
+          <caret line="578" column="18" lean-forward="true" selection-start-line="578" selection-start-column="18" selection-end-line="578" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1503#13412#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        <state relative-caret-position="1133">
+          <caret line="497" column="26" selection-start-line="497" selection-start-column="26" selection-end-line="497" selection-end-column="26" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/js/rcs.ui.js">
+    <entry file="file://$PROJECT_DIR$/resource/css/rcs.ui.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="807">
-          <caret line="539" column="22" selection-start-line="539" selection-start-column="22" selection-end-line="539" selection-end-column="22" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#1503#13412#0" />
-          </folding>
+        <state relative-caret-position="1655">
+          <caret line="5016" column="1" selection-start-line="5016" selection-start-column="1" selection-end-line="5016" selection-end-column="1" />
         </state>
       </provider>
     </entry>
