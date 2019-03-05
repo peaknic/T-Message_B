@@ -537,7 +537,7 @@ var RCSUI = (function () {
             $('.newchart-keypad').removeClass('is-showed');
         });
 
-        $('.site').on("click", function (e) {
+        $('.site .back').on("click", function (e) {
             $('.site').removeClass('open');
 
             $('.first-input').val('');
