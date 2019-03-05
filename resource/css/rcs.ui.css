@@ -4880,6 +4880,7 @@ button.swiper-pagination-bullet {
 }
 .mix-bubble .thumb{
     font-size:0;
+    display:block;
 }
 
 .mix-bubble .thumb img{
@@ -4922,7 +4923,7 @@ button.swiper-pagination-bullet {
 }
 
 .mix-bubble .bts a{
-    border-top:1px solid #ccc;
+    border-top:1px solid #e8e8e8;
     display:block;
     height:38px;
     line-height:38px;
@@ -4941,6 +4942,7 @@ button.swiper-pagination-bullet {
 .mix-bubble2 .thumb{
     display:block;
     width:134px;
+    font-size:0;
 }
 
 .mix-bubble2 .thumb img{
@@ -4955,6 +4957,8 @@ button.swiper-pagination-bullet {
     background:#fff;
 }
 .mix-bubble2 .txts{
+    position:Relative;
+    height:147px;
     padding:15px 15px 0 15px;
 }
 .mix-bubble2 .txts strong{
@@ -4966,7 +4970,10 @@ button.swiper-pagination-bullet {
 }
 
 .mix-bubble2 .txts button{
-    position:relative;
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
     font-size:12px;
     color:#666666;
     width:100%;
@@ -4989,7 +4996,7 @@ button.swiper-pagination-bullet {
 
 .mix-bubble2 .txts p{
     font-size:13px;
-    line-height:150%;
+    line-height:160%;
 }
 
 .mix-bubble2 .txts p span{
@@ -5006,7 +5013,7 @@ button.swiper-pagination-bullet {
 }
 
 .mix-bubble2 .bts a{
-    border-top:1px solid #ccc;
+    border-top:1px solid #e8e8e8;
     display:block;
     height:38px;
     line-height:38px;
