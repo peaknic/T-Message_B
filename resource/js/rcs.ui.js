@@ -515,8 +515,25 @@ var RCSUI = (function () {
 
         $('.link-starbucks').on("click", function (e) {
             e.preventDefault();
-            $('.site').addClass('open');
-          $('.site-frame').css('height', $(window).height() - 54)
+            $('.site.sb').addClass('open');
+            return false;
+        });
+
+        $('.link-kurly').on("click", function (e) {
+            e.preventDefault();
+            $('.site.mk').addClass('open');
+            return false;
+        });
+
+        $('.link-chi').on("click", function (e) {
+            e.preventDefault();
+            $('.site.cc').addClass('open');
+            return false;
+        });
+
+        $('.link-sb').on("click", function (e) {
+            e.preventDefault();
+            $('.site.sh').addClass('open');
             return false;
         });
 
