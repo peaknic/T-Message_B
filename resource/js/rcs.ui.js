@@ -484,6 +484,7 @@ var RCSUI = (function () {
         });
 
         $('.move-brandhome-kb').on("click", function (e) {
+            $('.mCSB_container').css('height', '100%');
             $('.brandhome-kb').addClass('open notransform');
         });
 
@@ -565,6 +566,7 @@ var RCSUI = (function () {
         });
 
         $('.brandhome .back').on("click", function (e) {
+            $('.mCSB_container').css('height', 'auto');
             $('.brandhome').removeClass('notransform open');
 
             $('.lists__item').each(function () {
