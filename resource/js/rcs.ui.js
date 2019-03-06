@@ -516,6 +516,7 @@ var RCSUI = (function () {
         $('.link-starbucks').on("click", function (e) {
             e.preventDefault();
             $('.site').addClass('open');
+          $('.site-frame').css('height', $(window).height() - 54)
             return false;
         });
 
