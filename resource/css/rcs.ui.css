@@ -2797,7 +2797,7 @@ button.swiper-pagination-bullet {
     left: 0;
     right: 0;
     box-sizing: border-box;
-  height: 45px;
+    height: 45px;
     border-top: 1px solid #e9e9eb;
     background: #fff;
     font-size: 0;
@@ -2810,8 +2810,8 @@ button.swiper-pagination-bullet {
 
 .chart-menus a {
     display: block;
-  height: 45px;
-  line-height: 45px;
+    height: 45px;
+    line-height: 45px;
     text-align: center;
     font-size: 12px;
     font-family: 'Yoon 765';
@@ -2820,11 +2820,11 @@ button.swiper-pagination-bullet {
 
 .chart-menus a:before {
     content: '';
-  display: inline-block;
-  /*margin: 17px auto 8px auto;*/
-  margin-right: 5px;
-  position: relative;
-  top: 7px;
+    display: inline-block;
+    /*margin: 17px auto 8px auto;*/
+    margin-right: 5px;
+    position: relative;
+    top: 7px;
 }
 
 .chart-menus a.cm1:before {
@@ -2869,7 +2869,7 @@ button.swiper-pagination-bullet {
 }
 
 .scroll-views.v2 {
-  bottom: 45px;
+    bottom: 45px;
 }
 .scroll-views.white {
     background: #fff;
@@ -4937,7 +4937,15 @@ button.swiper-pagination-bullet {
 }
 
 .mix-bubble .txts p {
-    font-size: 11px;
+    font-size: 12px;
+    white-space: normal;
+    text-align: left;
+    overflow: hidden;
+    word-wrap: break-word;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+
 }
 
 .mix-bubble .bts{
