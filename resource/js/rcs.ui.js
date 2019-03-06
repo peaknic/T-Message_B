@@ -483,6 +483,10 @@ var RCSUI = (function () {
             $('.kb-chart').addClass('open');
         });
 
+        $('.move-brandhome-kb').on("click", function (e) {
+            $('.brandhome-kb').addClass('open notransform');
+        });
+
         $('.kb-keyword2').on("click", function (e) {
             $(".benefit-cards-scroll").mCustomScrollbar("destroy");
             $('.kb-hidden1').delay(100).fadeIn();
@@ -560,6 +564,23 @@ var RCSUI = (function () {
             $('.newchart-keypad').removeClass('is-showed');
         });
 
+        $('.brandhome .back').on("click", function (e) {
+            $('.brandhome').removeClass('notransform open');
+
+            $('.lists__item').each(function () {
+                if ($(this).hasClass('is-expand')) {
+                    $(this).removeClass('is-expand').addClass('long');
+                    $(this).find('.lists__expand').hide().removeClass('is-actived');
+                    $(this).find('.lists__summery, .lists__tits .ico').show();
+                    $(this).find('.lists__in-content, .lists__mypick, .lists__mypick2').hide();
+                }
+            });
+
+            $('.welcome-msg').show();
+            $('.newchart-keypad').removeClass('is-showed');
+
+            $('html, body, .scroll-views').animate({scrollTop: 0}, 0);
+        });
 
         //scroll
         $('.chart .scroll-views').on("scroll", function () {
