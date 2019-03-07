@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="04702196-6e77-472a-bdaf-a45f93d7c96c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resource/css/rcs.ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/resource/css/rcs.ui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/css/rcs.ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/resource/css/rcs.ui.min.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resource/css/rcs.ui.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="716">
-              <caret line="5235" column="20" selection-start-line="5235" selection-start-column="20" selection-end-line="5235" selection-end-column="20" />
+            <state relative-caret-position="1071">
+              <caret line="6523" lean-forward="true" selection-start-line="6523" selection-end-line="6523" />
             </state>
           </provider>
         </entry>
@@ -239,32 +237,7 @@
             <path>
               <item name="T-Message_B" type="b2602c69:ProjectViewProjectNode" />
               <item name="T-Message_B" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="T-Message_B" type="b2602c69:ProjectViewProjectNode" />
-              <item name="T-Message_B" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="T-Message_B" type="b2602c69:ProjectViewProjectNode" />
-              <item name="T-Message_B" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="rcs.ui.scss" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="T-Message_B" type="b2602c69:ProjectViewProjectNode" />
-              <item name="T-Message_B" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="imgs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="T-Message_B" type="b2602c69:ProjectViewProjectNode" />
-              <item name="T-Message_B" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,7 +252,7 @@
     <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/yuicompressor-2.4.8.jar" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -315,7 +288,7 @@
       <workItem from="1551780751680" duration="2302000" />
       <workItem from="1551837208259" duration="8000" />
       <workItem from="1551837273636" duration="10448000" />
-      <workItem from="1551939283627" duration="676000" />
+      <workItem from="1551939283627" duration="4149000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1551781073992</created>
@@ -415,11 +388,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551851991889</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit">
+      <created>1551940013069</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1551940013069</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23695000" />
+    <option name="totallyTimeSpent" value="27168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1192" y="-8" width="1216" height="1906" extended-state="6" />
@@ -439,7 +419,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="JIRA" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3295711" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.3295711" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -594,8 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/css/rcs.ui.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="716">
-          <caret line="5235" column="20" selection-start-line="5235" selection-start-column="20" selection-end-line="5235" selection-end-column="20" />
+        <state relative-caret-position="1071">
+          <caret line="6523" lean-forward="true" selection-start-line="6523" selection-end-line="6523" />
         </state>
       </provider>
     </entry>
