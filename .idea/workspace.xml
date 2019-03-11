@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04702196-6e77-472a-bdaf-a45f93d7c96c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resource/imgs/ico_nums.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/js/rcs.ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/resource/js/rcs.ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/imgs/ico_send.png" beforeDir="false" afterPath="$PROJECT_DIR$/resource/imgs/ico_send.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,17 +20,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resource/css/rcs.ui.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="895">
+            <state relative-caret-position="102612">
               <caret line="6036" column="23" selection-start-line="6036" selection-start-column="23" selection-end-line="6036" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="260" column="28" lean-forward="true" selection-start-line="260" selection-start-column="28" selection-end-line="260" selection-end-column="28" />
+            <state relative-caret-position="486">
+              <caret line="689" column="33" selection-start-line="689" selection-start-column="20" selection-end-line="689" selection-end-column="33" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#meta#1;n#head#0;n#html#0;n#!!top" />
@@ -135,11 +135,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resource/js/rcs.ui.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="757">
-              <caret line="518" column="25" lean-forward="true" selection-start-line="518" selection-start-column="25" selection-end-line="518" selection-end-column="25" />
+              <caret line="518" column="25" selection-start-line="518" selection-start-column="25" selection-end-line="518" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#1503#13412#0" />
@@ -170,6 +170,7 @@
       <find>link-starbucks</find>
       <find>.chart .welcome-msg {</find>
       <find>.msg-input-box</find>
+      <find>msg-input-box</find>
     </findStrings>
     <replaceStrings>
       <replace>채팅</replace>
@@ -183,9 +184,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index_bak.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resource/css/rcs.ui.css" />
         <option value="$PROJECT_DIR$/resource/js/rcs.ui.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -278,7 +279,9 @@
       <workItem from="1551837273636" duration="10448000" />
       <workItem from="1551939283627" duration="5201000" />
       <workItem from="1552006236481" duration="902000" />
-      <workItem from="1552022459204" duration="337000" />
+      <workItem from="1552022459204" duration="1532000" />
+      <workItem from="1552034339758" duration="4000" />
+      <workItem from="1552279504362" duration="146000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1551781073992</created>
@@ -406,11 +409,25 @@
       <option name="project" value="LOCAL" />
       <updated>1552006507841</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="commit">
+      <created>1552022813049</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1552022813049</updated>
+    </task>
+    <task id="LOCAL-00020" summary="commit">
+      <created>1552030341348</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1552030341348</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29459000" />
+    <option name="totallyTimeSpent" value="30804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1192" y="-8" width="1216" height="1906" extended-state="6" />
@@ -448,13 +465,6 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resource/css/rcs.ui.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="895">
-          <caret line="6036" column="23" selection-start-line="6036" selection-start-column="23" selection-end-line="6036" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index_bak.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
@@ -472,10 +482,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resource/imgs/img_sh-thumb2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/css/rcs.ui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102612">
+          <caret line="6036" column="23" selection-start-line="6036" selection-start-column="23" selection-end-line="6036" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/js/rcs.ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="518" column="25" selection-start-line="518" selection-start-column="25" selection-end-line="518" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1503#13412#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="260" column="28" lean-forward="true" selection-start-line="260" selection-start-column="28" selection-end-line="260" selection-end-column="28" />
+        <state relative-caret-position="486">
+          <caret line="689" column="33" selection-start-line="689" selection-start-column="20" selection-end-line="689" selection-end-column="33" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#meta#1;n#head#0;n#html#0;n#!!top" />
@@ -575,17 +606,6 @@
             <element signature="n#ul#0;n#div#0;n#div#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#1;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#script#9;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/js/rcs.ui.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="757">
-          <caret line="518" column="25" lean-forward="true" selection-start-line="518" selection-start-column="25" selection-end-line="518" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#1503#13412#0" />
           </folding>
         </state>
       </provider>
